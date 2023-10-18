@@ -251,7 +251,7 @@ under the License.
         <generex.version>1.0.1</generex.version>
         <fabric8.kubernetes.version>6.7.2</fabric8.kubernetes.version>
         <logging-interceptor.version>4.7.2</logging-interceptor.version>
-        <okhttp.version>4.9.3</okhttp.version>
+        <okhttp.version>4.12.0</okhttp.version>
         <okio.version>3.4.0</okio.version>
         <snakeyaml.version>1.33</snakeyaml.version>
         <validation-api.version>1.1.0.Final</validation-api.version>
