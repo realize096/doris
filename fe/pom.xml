@@ -278,7 +278,7 @@ under the License.
         <arrow.version>9.0.0</arrow.version>
         <avro.version>1.11.1</avro.version>
         <!-- hudi -->
-        <hudi.version>0.13.1</hudi.version>
+        <hudi.version>0.14.0</hudi.version>
         <presto.hadoop.version>2.7.4-11</presto.hadoop.version>
         <presto.hive.version>3.0.0-8</presto.hive.version>
 
