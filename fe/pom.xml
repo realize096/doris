@@ -304,7 +304,7 @@ under the License.
         <zookeeper.version>3.4.14</zookeeper.version>
         <velocity-engine-core.version>2.3</velocity-engine-core.version>
         <opentelemetry.version>1.26.0</opentelemetry.version>
-        <ranger-plugins-common.version>2.4.0</ranger-plugins-common.version>
+        <ranger-plugins-common.version>2.5.0</ranger-plugins-common.version>
         <bcprov-jdk15on.version>1.70</bcprov-jdk15on.version>
         <woodstox.version>6.5.1</woodstox.version>
         <kerby.version>2.0.3</kerby.version>
