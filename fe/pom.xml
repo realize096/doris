@@ -263,7 +263,7 @@ under the License.
         <javax.activation.version>1.2.0</javax.activation.version>
         <jaxws-api.version>2.3.0</jaxws-api.version>
         <RoaringBitmap.version>0.8.13</RoaringBitmap.version>
-        <spark.version>2.4.6</spark.version>
+        <spark.version>3.2.0</spark.version>
         <hive.version>3.1.3</hive.version>
         <hive.common.version>2.3.9</hive.common.version>
         <mapreduce.client.version>2.10.1</mapreduce.client.version>
@@ -295,7 +295,7 @@ under the License.
         <aws-java-sdk.version>1.12.519</aws-java-sdk.version>
         <mariadb-java-client.version>3.0.4</mariadb-java-client.version>
         <dlf-metastore-client-hive.version>0.2.14</dlf-metastore-client-hive.version>
-        <hadoop.version>3.3.6</hadoop.version>
+        <hadoop.version>3.4.0</hadoop.version>
         <joda.version>2.8.1</joda.version>
         <project.scm.id>github</project.scm.id>
         <spring.version>2.7.13</spring.version>
