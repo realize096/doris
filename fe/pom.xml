@@ -276,9 +276,9 @@ under the License.
         <delta.version>3.0.0rc1</delta.version>
         <maxcompute.version>0.43.3-public</maxcompute.version>
         <arrow.version>9.0.0</arrow.version>
-        <avro.version>1.11.1</avro.version>
+        <avro.version>1.11.4</avro.version>
         <!-- hudi -->
-        <hudi.version>0.13.1</hudi.version>
+        <hudi.version>0.14.0</hudi.version>
         <presto.hadoop.version>2.7.4-11</presto.hadoop.version>
         <presto.hive.version>3.0.0-8</presto.hive.version>
 
@@ -295,7 +295,7 @@ under the License.
         <aws-java-sdk.version>1.12.519</aws-java-sdk.version>
         <mariadb-java-client.version>3.0.4</mariadb-java-client.version>
         <dlf-metastore-client-hive.version>0.2.14</dlf-metastore-client-hive.version>
-        <hadoop.version>3.3.6</hadoop.version>
+        <hadoop.version>3.4.0</hadoop.version>
         <joda.version>2.8.1</joda.version>
         <project.scm.id>github</project.scm.id>
         <spring.version>2.7.13</spring.version>
