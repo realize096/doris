@@ -105,7 +105,7 @@ under the License.
         <dependency>
             <groupId>org.apache.parquet</groupId>
             <artifactId>parquet-avro</artifactId>
-            <version>1.10.1</version>
+            <version>1.14.3</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -272,7 +272,7 @@ under the License.
                     </descriptors>
                     <archive>
                         <manifest>
-                            <mainClass></mainClass>
+                            <mainClass/>
                         </manifest>
                     </archive>
                 </configuration>
