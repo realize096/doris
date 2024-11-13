@@ -71,7 +71,7 @@ under the License.
         <maven.compiler.target>1.8</maven.compiler.target>
         <revision>1.0-SNAPSHOT</revision>
         <project.scm.id>github</project.scm.id>
-        <groovy.version>3.0.7</groovy.version>
+        <groovy.version>3.0.23</groovy.version>
         <groovy-eclipse-batch.version>3.0.7-01</groovy-eclipse-batch.version>
         <groovy-eclipse-compiler.version>3.7.0</groovy-eclipse-compiler.version>
         <antlr.version>4.9.3</antlr.version>
