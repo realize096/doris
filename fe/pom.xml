@@ -229,11 +229,11 @@ under the License.
         <clickhouse.version>0.4.6</clickhouse.version>
         <thrift.version>0.16.0</thrift.version>
         <tomcat-embed-core.version>8.5.86</tomcat-embed-core.version>
-        <log4j2.version>2.18.0</log4j2.version>
+        <log4j2.version>2.25.3</log4j2.version>
         <log4j-1.2.version>2.18.0</log4j-1.2.version>
         <slf4j.version>2.0.6</slf4j.version>
         <metrics-core.version>4.0.2</metrics-core.version>
-        <netty-all.version>4.1.94.Final</netty-all.version>
+        <netty-all.version>4.1.129.Final</netty-all.version>
         <!--The dependence of transitive dependence cannot be ruled out, only Saving the nation through twisted ways.-->
         <netty-3-test.version>3.10.6.Final</netty-3-test.version>
         <objenesis.version>2.1</objenesis.version>
@@ -304,7 +304,7 @@ under the License.
         <zookeeper.version>3.4.14</zookeeper.version>
         <velocity-engine-core.version>2.3</velocity-engine-core.version>
         <opentelemetry.version>1.26.0</opentelemetry.version>
-        <ranger-plugins-common.version>2.4.0</ranger-plugins-common.version>
+        <ranger-plugins-common.version>2.7.0</ranger-plugins-common.version>
         <bcprov-jdk15on.version>1.70</bcprov-jdk15on.version>
         <woodstox.version>6.5.1</woodstox.version>
         <kerby.version>2.0.3</kerby.version>
